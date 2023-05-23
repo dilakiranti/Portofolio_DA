@@ -11,23 +11,74 @@
 <center><img src="images/visualisasi2.PNG"/></center>
 
 ---
-## GUI Python for Moving Average (Data : Jumlah Wisatawan Gucci)
+## Data Cleansing with Python (Case : Telco Churn)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio/blob/main/projects/GUI%20Python%20Moving%20Average.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19kvdjs1O5ABR37USfuO0sKh3E9MpW1V-#scrollTo=ZtuILhY8Qmad)
 
-<div style="text-align: justify"> The moving average is a statistical method used for forecasting long-term trends. The technique represents taking an average of a set of numbers in a given range while moving the range.</div>
-<br>
-<div style="text-align: justify"> A GUI (graphical user interface) is a system of interactive visual components for computer software. A GUI displays objects that convey information, and represent actions that can be taken by the user.</div>
-
+<div style="text-align: justify"> Data cleansing is the process of correcting or removing incorrect, corrupted, malformed, duplicate, or incomplete data in a data set. In this dataset there are several stages of data cleansing:</div>
 <div style="text-align: justify"><br>
 The steps to Use the Moving Average GUI<br>
-1. Click the Input File button<br>
-2. Choose file "Jumlah Wisatawan Gucci"<br>
-3. Load file<br>
-4. Click the Hitung button</div>
+1. Missing value checking and handling<br>
+2. Categorical data encoding<br>
+3. Outlier handling</div>
 
 <br>
 <center><img src="images/gui.PNG"/></center>
 <br>
 <center><img src="images/gui2.PNG"/></center>
 ---
+## Data preprocessing with Pandas
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rq79o9ylJWrL7kDW5V16ubssnY8mnQRF)
+
+<div style="text-align: justify"> Data pre-processing is the data preparation component, describes all the types of processing performed on raw data to prepare it for other data processing procedures. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
+
+<br>
+<center><img src="images/gui.PNG"/></center>
+<br>
+<center><img src="images/gui2.PNG"/></center>
+---
+## Data Vizualisation with Python (Case : Ship Accident Data)
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_yhX25qwYTdl9H6uFo-oIjV01VPkZ7QS#scrollTo=9QVd0n__6Vcr)
+
+<div style="text-align: justify"> Data visualization aims to help users understand large and complex information in a more understandable and engaging way. Many types of visualization data such as barplot, boxplot, scatterplot, heatmap, and many more with packages such as matplotlib, seaborn, or bokeh.</div>
+
+<br>
+<center><img src="images/gui.PNG"/></center>
+<br>
+<center><img src="images/gui2.PNG"/></center>
+---
+## Statistics with Python
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Rh6ndEEpBYxH_pd2guxlA_Zft9J5VjlT)
+
+<div style="text-align: justify"> Statistics in data analysis is used to see the relationship between variables so that appropriate modeling can be done to obtain accurate prediction results.</div>
+
+<br>
+<center><img src="images/gui.PNG"/></center>
+<br>
+<center><img src="images/gui2.PNG"/></center>
+---
+## Exploratory Data Analysis (Case : Diabetic patient data)
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iG9M1k3a8_KoJEOVp-ZoL4DHfDuunYui#scrollTo=Msu5KxeEdGEW)
+
+<div style="text-align: justify"> Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.</div>
+
+<br>
+<center><img src="images/gui.PNG"/></center>
+<br>
+<center><img src="images/gui2.PNG"/></center>
+---
+## Regression and Clustering with Python ( Case Regression : House Price Data & Clustering : Mall Customer Data)
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
+
+<div style="text-align: justify"> Regression analysis is a set of statistical methods used to estimate relationships between a dependent variable and one or more independent variables.</div>
+<br>
+<div style="text-align: justify"> Cluster analysis is a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are.</div>
+<br>
+<center><img src="images/gui.PNG"/></center>
+<br>
+<center><img src="images/gui2.PNG"/></center>
