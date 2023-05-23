@@ -26,6 +26,7 @@ The steps to Use the Moving Average GUI<br>
 <center><img src="images/gui.PNG"/></center>
 <br>
 <center><img src="images/gui2.PNG"/></center>
+
 ---
 ## Data preprocessing with Pandas
 
@@ -38,6 +39,7 @@ The steps to Use the Moving Average GUI<br>
 <br>
 <center><img src="images/gui2.PNG"/></center>
 ---
+
 ## Data Vizualisation with Python (Case : Ship Accident Data)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_yhX25qwYTdl9H6uFo-oIjV01VPkZ7QS#scrollTo=9QVd0n__6Vcr)
@@ -48,6 +50,7 @@ The steps to Use the Moving Average GUI<br>
 <center><img src="images/gui.PNG"/></center>
 <br>
 <center><img src="images/gui2.PNG"/></center>
+
 ---
 ## Statistics with Python
 
@@ -59,6 +62,7 @@ The steps to Use the Moving Average GUI<br>
 <center><img src="images/gui.PNG"/></center>
 <br>
 <center><img src="images/gui2.PNG"/></center>
+
 ---
 ## Exploratory Data Analysis (Case : Diabetic patient data)
 
@@ -70,6 +74,7 @@ The steps to Use the Moving Average GUI<br>
 <center><img src="images/gui.PNG"/></center>
 <br>
 <center><img src="images/gui2.PNG"/></center>
+
 ---
 ## Regression and Clustering with Python ( Case Regression : House Price Data & Clustering : Mall Customer Data)
 
