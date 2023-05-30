@@ -11,3 +11,4 @@
 Check out the portfolio at https://github.com/dilakiranti/Portofolio
 
 [webdev]: https://github.com/dilakiranti/Portofolio_DA
+Dashboard [Customer Shopping](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
