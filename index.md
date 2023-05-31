@@ -80,7 +80,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 
 ### Regression and Clustering with Python 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
-<div style="text-align: justify">1. Regression Analysis</div><br>
+<div style="text-align: justify">1. Regression Analysis</div>
 <div style="text-align: justify">Using house price data, a prediction model will be carried out to find out house prices using regression analysis. Analysis will be carried out by:<br>
 1. split data train and testing.<br>
 2. Create a predictive model with linear regression using train data.<br>
@@ -88,7 +88,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <br>
 <center><img src="images/reg.PNG"/></center>
 <br>
-<div style="text-align: justify">2. Cluster Analysis</div><br>
+<div style="text-align: justify">2. Cluster Analysis</div>
 <div style="text-align: justify">Using mall customer data, cluster analysis is carried out with the aim of knowing customer segmentation based on income and spending scores. This analysis is carried out by carrying out the following stages:<br>
 1. Scaling data: aims to equate units between variables.<br>
 2. Determining the number of clusters: Elbow and Silhouette methods.<br>
