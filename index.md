@@ -1,23 +1,22 @@
-# Data Analytics
+# Portfolio
+
+## Skills and Abilities
+<div style="text-align: justify">
+1. Microsoft Excel/Google Spreedsheet<br>
+2. Programming Languages : Python, Google Colab, SQL and R<br>
+3. Data Visualization : Lookers Studio<br>
+4. Statistics : Descriptive Statistics, Exploratory Data Analysis and Visualization, Cluster Analysis, Regression Analysis, and Corelation Analysis<br>
+5. Data Comunication Skills</div>
+
+## Python Project
 ---
-## Python Structure and Data Type
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1FEznLLLerljjfapq9lPjQ-yja0nmqEr7)
-
-<div style="text-align: justify">The basic Python data structures in Python include lists, sets, tuples, and dictionaries. Each data structure is unique in its own way. Data structures are "containers" that organize and group data by type. The data type can also perform number operations. </div>
-
-<br>
-<center><img src="images/data structure1.png"/></center>
-<br>
-<center><img src="images/data structure2.png"/></center>
-
----
-## Data Cleansing with Python (Case : Telco Churn)
+### Data Cleansing in Python
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19kvdjs1O5ABR37USfuO0sKh3E9MpW1V-#scrollTo=ZtuILhY8Qmad)
 
-<div style="text-align: justify"> Data cleansing is the process of correcting or removing incorrect, corrupted, malformed, duplicate, or incomplete data in a data set. In this dataset there are several stages of data cleansing:</div>
-<div style="text-align: justify"><br>
-The steps to Use the Moving Average GUI<br>
+<div style="text-align: justify"> 
+Using Telco Churn data, data cleaning has been carried out with the aim of:</div>
+<div style="text-align: justify">
 1. Missing value checking and handling<br>
 2. Categorical data encoding<br>
 3. Outlier handling</div>
@@ -27,61 +26,83 @@ The steps to Use the Moving Average GUI<br>
 <br>
 <center><img src="images/data cleansing2.png"/></center>
 
----
-## Data Preprocessing with Pandas
+
+### Data Preprocessing with Pandas
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rq79o9ylJWrL7kDW5V16ubssnY8mnQRF)
 
-<div style="text-align: justify"> Data pre-processing is the data preparation component, describes all the types of processing performed on raw data to prepare it for other data processing procedures. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
+<div style="text-align: justify"> In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
 
 <br>
 <center><img src="images/data pre2.png"/></center>
----
 
-## Data Vizualisation with Python (Case : Ship Accident Data)
+
+### Data Vizualisation with Python
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_yhX25qwYTdl9H6uFo-oIjV01VPkZ7QS#scrollTo=9QVd0n__6Vcr)
 
-<div style="text-align: justify"> Data visualization aims to help users understand large and complex information in a more understandable and engaging way. Many types of visualization data such as barplot, boxplot, scatterplot, heatmap, and many more with packages such as matplotlib, seaborn, or bokeh.</div>
-
+<div style="text-align: justify"> Data visualization aims to help users understand large and complex information in a more understandable and engaging way. Using ship accident data, visualization is carried out as follows:</div>
+<div style="text-align: justify">
+1. barplot: plot of the number of passengers based on gender, Pclass, Embarked, and Passenger safety.<br>
+2. boxplot: distribution plot of age, number of siblings, number of families, and passenger fare.<br>
+3. Scatterplot: plot of the relationship between passenger age and fare.<br>
+4. Pie chart: number of passengers based on gender, Pclass, Embarked, and passenger safety.</div>
 <br>
 <center><img src="images/viz1.png"/></center>
 <br>
 <center><img src="images/viz2.png"/></center>
 
----
-## Statistics with Python
+
+### Statistics with Python
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Rh6ndEEpBYxH_pd2guxlA_Zft9J5VjlT)
 
-<div style="text-align: justify"> Statistics in data analysis is used to see the relationship between variables so that appropriate modeling can be done to obtain accurate prediction results.</div>
-
+<div style="text-align: justify"> Statistics in data analysis is used to see the relationship between variables so that appropriate modeling can be done to obtain accurate prediction results. Using data on diabetes patients, several things are done statistically, including:</div>
+<div style="text-align: justify">
+1. Descriptive statistics: mean, median, mode, variance.<br>
+2. Boxplot to find out the distribution of data and the number of outliers.<br>
+3. distribution plot to determine the distribution of a variable and the distribution of the data.</div>
 <br>
 <center><img src="images/stat1.png"/></center>
 <br>
 <center><img src="images/stat2.png"/></center>
 
----
-## Exploratory Data Analysis (Case : Diabetic patient data)
+
+### Exploratory Data Analysis (Case : Diabetic patient data)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iG9M1k3a8_KoJEOVp-ZoL4DHfDuunYui#scrollTo=Msu5KxeEdGEW)
 
-<div style="text-align: justify"> Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.</div>
-
+<div style="text-align: justify"> Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. Using telco churn data, Exploratory Data Analysis and Visualization are carried out to find out:<br>
+1. Statistical Summary: numerical and categorical approach.<br>
+2. Univariate Analysis: to find out the distribution of data on numerical data and the number of categorical variables.<br>
+3. Bivariate Analysis: to determine the relationship between 2 variables.<br>
+4. Multivariate Analysis: To determine the correlation between data with a large number of variables using a heatmap.</div>
 <br>
 <center><img src="images/eda1.png"/></center>
 <br>
 <center><img src="images/eda2.png"/></center>
 
 ---
-## Regression and Clustering with Python ( Case Regression : House Price Data & Clustering : Mall Customer Data)
+### Regression and Clustering with Python ( Case Regression : House Price Data & Clustering : Mall Customer Data)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
-
-<div style="text-align: justify"> Regression analysis is a set of statistical methods used to estimate relationships between a dependent variable and one or more independent variables.</div>
-<br>
-<div style="text-align: justify"> Cluster analysis is a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are.</div>
+<div style="text-align: justify">1. Regression Analysis</div><br>
+<div style="text-align: justify">Using house price data, a prediction model will be carried out to find out house prices using regression analysis. Analysis will be carried out by:<br>
+1. split data train and testing.<br>
+2. Create a predictive model with linear regression using train data.<br>
+3. Evaluate the model using data testing with the values of Mean Absolute Error, Mean Square Error, Root mean Square Error, Mean Absolute Presentage Error, and R-Square.</div>
 <br>
 <center><img src="images/regression.png"/></center>
 <br>
+<div style="text-align: justify">2. Cluster Analysis</div><br>
+<div style="text-align: justify">Using mall customer data, cluster analysis is carried out with the aim of knowing customer segmentation based on income and spending scores. This analysis is carried out by carrying out the following stages:<br>
+1. Scaling data: aims to equate units between variables.<br>
+2. Determining the number of clusters: Elbow and Silhouette methods.<br>
+3. Data clustering.<br>
+4. Model evaluation: Silhouette Coefficient, Calinski-Harabasz Index and Davies-Bouldin Index.</div>
+<br>
 <center><img src="images/clustering.png"/></center>
+
+## Looker Studi Project (Dashboard)
+### Global Covid-19 Cases Dashboard
+<div style="text-align: justify">View in Looker - </div>[Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
