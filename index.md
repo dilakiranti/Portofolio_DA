@@ -14,7 +14,7 @@
 View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
 <br>
 <center><img src="images/dashboard covid.PNG"/></center>
-
+<br>
 ### Report of Customer Mall Dashboard 
 View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
 <br>
@@ -49,8 +49,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <br>
 <center><img src="images/cleaning1.PNG"/></center>
 <center><img src="images/cleaning2.PNG"/></center>
-
-
+<br>
 ### Data Preprocessing with Pandas
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rq79o9ylJWrL7kDW5V16ubssnY8mnQRF)
 
@@ -58,7 +57,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <br>
 <center><img src="images/pre1.PNG"/></center>
 <center><img src="images/pre2.PNG"/></center>
-
+<br>
 ### Data Vizualisation with Python
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_yhX25qwYTdl9H6uFo-oIjV01VPkZ7QS#scrollTo=9QVd0n__6Vcr)
 
@@ -74,8 +73,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <center><img src="images/vis3.PNG"/></center>
 <center><img src="images/vis4.PNG"/></center>
 <center><img src="images/vis5.PNG"/></center>
-
-
+<br>
 ### Statistics with Python
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Rh6ndEEpBYxH_pd2guxlA_Zft9J5VjlT)
 
@@ -87,8 +85,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <br>
 <center><img src="images/stat1.PNG"/></center>
 <center><img src="images/stat2.PNG"/></center>
-
-
+<br>
 ### Exploratory Data Analysis
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iG9M1k3a8_KoJEOVp-ZoL4DHfDuunYui#scrollTo=Msu5KxeEdGEW)
 
@@ -101,7 +98,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <center><img src="images/eda1.PNG"/></center>
 <center><img src="images/eda2.PNG"/></center>
 <center><img src="images/eda3.PNG"/></center>
-
+<br>
 ### Regression and Clustering with Python 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
 <div style="text-align: justify">1. Regression Analysis</div>
