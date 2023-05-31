@@ -116,7 +116,7 @@ View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google
 <center><img src="images/dashboard customer.PNG"/></center>
 
 ## SQL Project
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio/blob/main/projects/GUI%20Python%20Moving%20Average.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio_DA/blob/main/projects/SQL1.sql)
 <div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:<br>
 1. The top 10 customers and their email so we can reward them.<br>
 2. The bottom 10 customers and their emails.<br>
