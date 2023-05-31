@@ -3,14 +3,41 @@
 ## Skills and Abilities
 <div style="text-align: justify">
 1. Microsoft Excel/Google Spreedsheet<br>
-2. Programming Languages : Python, Google Colab, SQL and R<br>
+2. Programming Languages : SQL, Python, Google Colab, and R<br>
 3. Data Visualization : Lookers Studio<br>
 4. Statistics : Descriptive Statistics, Exploratory Data Analysis and Visualization, Cluster Analysis, Regression Analysis, and Corelation Analysis<br>
 5. Data Comunication Skills</div>
 <br>
 
-## Python Project
+## Data Visualization Project in Looker Studio 
+### Global Covid-19 Cases Dashboard
+View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
+<br>
+<center><img src="images/dashboard covid.PNG"/></center>
 
+### Report of Customer Mall Dashboard 
+View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
+<br>
+<center><img src="images/dashboard customer.PNG"/></center>
+<br>
+
+## SQL Project
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio_DA/blob/main/projects/SQL1.sql)
+<div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:<br>
+1. The top 10 customers and their email so we can reward them.<br>
+2. The bottom 10 customers and their emails.<br>
+3. The most profitable movie genres (ratings).<br>
+4. The number of movies were returned late, early, and on time.<br>
+5. The customer base in the countries where we have a presence.<br>
+6. The most profitable country for the business.<br>
+7. The average rental rate per film genre (rating).</div>
+<br>
+<center><img src="images/sql1.png"/></center>
+<br>
+<center><img src="images/sql3.png"/></center>
+<br>
+
+## Python Project
 ### Data Cleansing in Python
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19kvdjs1O5ABR37USfuO0sKh3E9MpW1V-#scrollTo=ZtuILhY8Qmad)
 
@@ -48,6 +75,12 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <center><img src="images/vis1.PNG"/></center>
 <br>
 <center><img src="images/vis2.PNG"/></center>
+<br>
+<center><img src="images/vis3.PNG"/></center>
+<br>
+<center><img src="images/vis4.PNG"/></center>
+<br>
+<center><img src="images/vis5.PNG"/></center>
 
 
 ### Statistics with Python
@@ -98,29 +131,3 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <center><img src="images/cluster.PNG"/></center>
 <br>
 
-## Looker Studio Project (Dashboard)
-### Global Covid-19 Cases Dashboard
-View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
-<br>
-<center><img src="images/dashboard covid.PNG"/></center>
-
-### Report of Customer Mall Dashboard 
-View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
-<br>
-<center><img src="images/dashboard customer.PNG"/></center>
-<br>
-
-## SQL Project
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio_DA/blob/main/projects/SQL1.sql)
-<div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:<br>
-1. The top 10 customers and their email so we can reward them.<br>
-2. The bottom 10 customers and their emails.<br>
-3. The most profitable movie genres (ratings).<br>
-4. The number of movies were returned late, early, and on time.<br>
-5. The customer base in the countries where we have a presence.<br>
-6. The most profitable country for the business.<br>
-7. The average rental rate per film genre (rating).</div>
-<br>
-<center><img src="images/sql1.png"/></center>
-<br>
-<center><img src="images/sql3.png"/></center>
