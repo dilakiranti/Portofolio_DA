@@ -105,4 +105,10 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 
 ## Looker Studi Project (Dashboard)
 ### Global Covid-19 Cases Dashboard
-<div style="text-align: justify">View in Looker - </div>[Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
+View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
+
+### Report of Customer Mall Dashboard 
+View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
+
+## SQL Project
+
