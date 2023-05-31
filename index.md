@@ -22,9 +22,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Outlier handling</div>
 
 <br>
-<center><img src="images/data cleansing1.png"/></center>
+<center><img src="images/cleaning1.png"/></center>
 <br>
-<center><img src="images/data cleansing2.png"/></center>
+<center><img src="images/cleaning2.png"/></center>
 
 
 ### Data Preprocessing with Pandas
@@ -34,8 +34,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <div style="text-align: justify"> In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
 
 <br>
-<center><img src="images/data pre2.png"/></center>
-
+<center><img src="images/pre1.png"/></center>
+<br>
+<center><img src="images/pre2.png"/></center>
 
 ### Data Vizualisation with Python
 
@@ -48,9 +49,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Scatterplot: plot of the relationship between passenger age and fare.<br>
 4. Pie chart: number of passengers based on gender, Pclass, Embarked, and passenger safety.</div>
 <br>
-<center><img src="images/viz1.png"/></center>
+<center><img src="images/vis1.png"/></center>
 <br>
-<center><img src="images/viz2.png"/></center>
+<center><img src="images/vis2.png"/></center>
 
 
 ### Statistics with Python
@@ -92,7 +93,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 2. Create a predictive model with linear regression using train data.<br>
 3. Evaluate the model using data testing with the values of Mean Absolute Error, Mean Square Error, Root mean Square Error, Mean Absolute Presentage Error, and R-Square.</div>
 <br>
-<center><img src="images/regression.png"/></center>
+<center><img src="images/reg.png"/></center>
 <br>
 <div style="text-align: justify">2. Cluster Analysis</div><br>
 <div style="text-align: justify">Using mall customer data, cluster analysis is carried out with the aim of knowing customer segmentation based on income and spending scores. This analysis is carried out by carrying out the following stages:<br>
@@ -101,14 +102,21 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Data clustering.<br>
 4. Model evaluation: Silhouette Coefficient, Calinski-Harabasz Index and Davies-Bouldin Index.</div>
 <br>
-<center><img src="images/clustering.png"/></center>
+<center><img src="images/cluster.png"/></center>
 
 ## Looker Studi Project (Dashboard)
 ### Global Covid-19 Cases Dashboard
 View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
+<br>
+<center><img src="images/dashboard covid.png"/></center>
 
 ### Report of Customer Mall Dashboard 
 View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
+<br>
+<center><img src="images/dashboard customer.png"/></center>
 
 ## SQL Project
-
+<br>
+<center><img src="images/sql1.png"/></center>
+<br>
+<center><img src="images/sql3.png"/></center>
