@@ -33,7 +33,6 @@ View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google
 7. The average rental rate per film genre (rating).</div>
 <br>
 <center><img src="images/sql1.png"/></center>
-<br>
 <center><img src="images/sql3.png"/></center>
 <br>
 
@@ -49,7 +48,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Outlier handling</div>
 <br>
 <center><img src="images/cleaning1.PNG"/></center>
-<br>
 <center><img src="images/cleaning2.PNG"/></center>
 
 
@@ -59,7 +57,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <div style="text-align: justify"> In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
 <br>
 <center><img src="images/pre1.PNG"/></center>
-<br>
 <center><img src="images/pre2.PNG"/></center>
 
 ### Data Vizualisation with Python
@@ -73,13 +70,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 4. Pie chart: number of passengers based on gender, Pclass, Embarked, and passenger safety.</div>
 <br>
 <center><img src="images/vis1.PNG"/></center>
-<br>
 <center><img src="images/vis2.PNG"/></center>
-<br>
 <center><img src="images/vis3.PNG"/></center>
-<br>
 <center><img src="images/vis4.PNG"/></center>
-<br>
 <center><img src="images/vis5.PNG"/></center>
 
 
@@ -93,7 +86,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. distribution plot to determine the distribution of a variable and the distribution of the data.</div>
 <br>
 <center><img src="images/stat1.PNG"/></center>
-<br>
 <center><img src="images/stat2.PNG"/></center>
 
 
@@ -109,7 +101,8 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <center><img src="images/eda1.PNG"/></center>
 <br>
 <center><img src="images/eda2.PNG"/></center>
-
+<br>
+<center><img src="images/eda3.PNG"/></center>
 
 ### Regression and Clustering with Python 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
