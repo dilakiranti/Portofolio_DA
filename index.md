@@ -7,11 +7,11 @@
 3. Data Visualization : Lookers Studio<br>
 4. Statistics : Descriptive Statistics, Exploratory Data Analysis and Visualization, Cluster Analysis, Regression Analysis, and Corelation Analysis<br>
 5. Data Comunication Skills</div>
+<br>
 
 ## Python Project
----
-### Data Cleansing in Python
 
+### Data Cleansing in Python
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19kvdjs1O5ABR37USfuO0sKh3E9MpW1V-#scrollTo=ZtuILhY8Qmad)
 
 <div style="text-align: justify"> 
@@ -20,7 +20,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 1. Missing value checking and handling<br>
 2. Categorical data encoding<br>
 3. Outlier handling</div>
-
 <br>
 <center><img src="images/cleaning1.PNG"/></center>
 <br>
@@ -28,18 +27,15 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 
 
 ### Data Preprocessing with Pandas
-
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rq79o9ylJWrL7kDW5V16ubssnY8mnQRF)
 
 <div style="text-align: justify"> In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
-
 <br>
 <center><img src="images/pre1.PNG"/></center>
 <br>
 <center><img src="images/pre2.PNG"/></center>
 
 ### Data Vizualisation with Python
-
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_yhX25qwYTdl9H6uFo-oIjV01VPkZ7QS#scrollTo=9QVd0n__6Vcr)
 
 <div style="text-align: justify"> Data visualization aims to help users understand large and complex information in a more understandable and engaging way. Using ship accident data, visualization is carried out as follows:</div>
@@ -55,7 +51,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 
 
 ### Statistics with Python
-
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Rh6ndEEpBYxH_pd2guxlA_Zft9J5VjlT)
 
 <div style="text-align: justify"> Statistics in data analysis is used to see the relationship between variables so that appropriate modeling can be done to obtain accurate prediction results. Using data on diabetes patients, several things are done statistically, including:</div>
@@ -70,7 +65,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 
 
 ### Exploratory Data Analysis
-
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iG9M1k3a8_KoJEOVp-ZoL4DHfDuunYui#scrollTo=Msu5KxeEdGEW)
 
 <div style="text-align: justify"> Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations. Using telco churn data, Exploratory Data Analysis and Visualization are carried out to find out:<br>
@@ -83,9 +77,8 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <br>
 <center><img src="images/eda2.PNG"/></center>
 
----
-### Regression and Clustering with Python 
 
+### Regression and Clustering with Python 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
 <div style="text-align: justify">1. Regression Analysis</div><br>
 <div style="text-align: justify">Using house price data, a prediction model will be carried out to find out house prices using regression analysis. Analysis will be carried out by:<br>
