@@ -22,9 +22,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Outlier handling</div>
 
 <br>
-<center><img src="images/cleaning1.png"/></center>
+<center><img src="images/cleaning1.PNG"/></center>
 <br>
-<center><img src="images/cleaning2.png"/></center>
+<center><img src="images/cleaning2.PNG"/></center>
 
 
 ### Data Preprocessing with Pandas
@@ -34,9 +34,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 <div style="text-align: justify"> In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation functions. Usually this can be done by combining 2 variables at different data sources with the merge function or filtering data to simplify the analysis process.</div>
 
 <br>
-<center><img src="images/pre1.png"/></center>
+<center><img src="images/pre1.PNG"/></center>
 <br>
-<center><img src="images/pre2.png"/></center>
+<center><img src="images/pre2.PNG"/></center>
 
 ### Data Vizualisation with Python
 
@@ -49,9 +49,9 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Scatterplot: plot of the relationship between passenger age and fare.<br>
 4. Pie chart: number of passengers based on gender, Pclass, Embarked, and passenger safety.</div>
 <br>
-<center><img src="images/vis1.png"/></center>
+<center><img src="images/vis1.PNG"/></center>
 <br>
-<center><img src="images/vis2.png"/></center>
+<center><img src="images/vis2.PNG"/></center>
 
 
 ### Statistics with Python
@@ -64,12 +64,12 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 2. Boxplot to find out the distribution of data and the number of outliers.<br>
 3. distribution plot to determine the distribution of a variable and the distribution of the data.</div>
 <br>
-<center><img src="images/stat1.png"/></center>
+<center><img src="images/stat1.PNG"/></center>
 <br>
-<center><img src="images/stat2.png"/></center>
+<center><img src="images/stat2.PNG"/></center>
 
 
-### Exploratory Data Analysis (Case : Diabetic patient data)
+### Exploratory Data Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iG9M1k3a8_KoJEOVp-ZoL4DHfDuunYui#scrollTo=Msu5KxeEdGEW)
 
@@ -79,12 +79,12 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Bivariate Analysis: to determine the relationship between 2 variables.<br>
 4. Multivariate Analysis: To determine the correlation between data with a large number of variables using a heatmap.</div>
 <br>
-<center><img src="images/eda1.png"/></center>
+<center><img src="images/eda1.PNG"/></center>
 <br>
-<center><img src="images/eda2.png"/></center>
+<center><img src="images/eda2.PNG"/></center>
 
 ---
-### Regression and Clustering with Python ( Case Regression : House Price Data & Clustering : Mall Customer Data)
+### Regression and Clustering with Python 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1UYj0i8I4kfDgI-MI0WR2nN5oy46L1ZC6#scrollTo=QJbp2c2QRn6Y)
 <div style="text-align: justify">1. Regression Analysis</div><br>
@@ -93,7 +93,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 2. Create a predictive model with linear regression using train data.<br>
 3. Evaluate the model using data testing with the values of Mean Absolute Error, Mean Square Error, Root mean Square Error, Mean Absolute Presentage Error, and R-Square.</div>
 <br>
-<center><img src="images/reg.png"/></center>
+<center><img src="images/reg.PNG"/></center>
 <br>
 <div style="text-align: justify">2. Cluster Analysis</div><br>
 <div style="text-align: justify">Using mall customer data, cluster analysis is carried out with the aim of knowing customer segmentation based on income and spending scores. This analysis is carried out by carrying out the following stages:<br>
@@ -102,20 +102,28 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Data clustering.<br>
 4. Model evaluation: Silhouette Coefficient, Calinski-Harabasz Index and Davies-Bouldin Index.</div>
 <br>
-<center><img src="images/cluster.png"/></center>
+<center><img src="images/cluster.PNG"/></center>
 
-## Looker Studi Project (Dashboard)
+## Looker Studio Project (Dashboard)
 ### Global Covid-19 Cases Dashboard
 View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
 <br>
-<center><img src="images/dashboard covid.png"/></center>
+<center><img src="images/dashboard covid.PNG"/></center>
 
 ### Report of Customer Mall Dashboard 
 View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
 <br>
-<center><img src="images/dashboard customer.png"/></center>
+<center><img src="images/dashboard customer.PNG"/></center>
 
 ## SQL Project
+<div style="text-align: justify">By using PostrageSQL, several variables will be searched as follows:<br>
+1. The top 10 customers and their email so we can reward them.<br>
+2. The bottom 10 customers and their emails.<br>
+3. The most profitable movie genres (ratings).<br>
+4. The number of movies were returned late, early, and on time.<br>
+5. The customer base in the countries where we have a presence.<br>
+6. The most profitable country for the business.<br>
+7. The average rental rate per film genre (rating).</div>
 <br>
 <center><img src="images/sql1.png"/></center>
 <br>
