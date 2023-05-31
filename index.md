@@ -9,7 +9,7 @@
 5. Data Comunication Skills</div>
 <br>
 
-## Data Visualization Project in Looker Studio 
+## Data Visualization Project with Looker Studio 
 ### Global Covid-19 Cases Dashboard
 View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.com/reporting/34e1e933-88ed-49bb-9ed9-7243a6957755)
 <br>
