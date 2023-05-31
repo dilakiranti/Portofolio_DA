@@ -99,9 +99,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 4. Multivariate Analysis: To determine the correlation between data with a large number of variables using a heatmap.</div>
 <br>
 <center><img src="images/eda1.PNG"/></center>
-<br>
 <center><img src="images/eda2.PNG"/></center>
-<br>
 <center><img src="images/eda3.PNG"/></center>
 
 ### Regression and Clustering with Python 
@@ -113,7 +111,6 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 3. Evaluate the model using data testing with the values of Mean Absolute Error, Mean Square Error, Root mean Square Error, Mean Absolute Presentage Error, and R-Square.</div>
 <br>
 <center><img src="images/reg.PNG"/></center>
-<br>
 <div style="text-align: justify">2. Cluster Analysis</div>
 <div style="text-align: justify">Using mall customer data, cluster analysis is carried out with the aim of knowing customer segmentation based on income and spending scores. This analysis is carried out by carrying out the following stages:<br>
 1. Scaling data: aims to equate units between variables.<br>
