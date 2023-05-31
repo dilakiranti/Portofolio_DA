@@ -96,6 +96,7 @@ Using Telco Churn data, data cleaning has been carried out with the aim of:</div
 4. Model evaluation: Silhouette Coefficient, Calinski-Harabasz Index and Davies-Bouldin Index.</div>
 <br>
 <center><img src="images/cluster.PNG"/></center>
+<br>
 
 ## Looker Studio Project (Dashboard)
 ### Global Covid-19 Cases Dashboard
@@ -107,6 +108,7 @@ View in Looker - [Global Covid-19 Cases Dashboard](https://lookerstudio.google.c
 View in Looker - [Report of Customer Mall Dashboard](https://lookerstudio.google.com/reporting/e2eb8b28-d400-4f90-8c12-0b9f8ed545e2)
 <br>
 <center><img src="images/dashboard customer.PNG"/></center>
+<br>
 
 ## SQL Project
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio_DA/blob/main/projects/SQL1.sql)
